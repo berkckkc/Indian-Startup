@@ -27,11 +27,6 @@ This notebook analyzes the evolution of the Indian startup funding ecosystem bet
 - **FinTech** emerged as the leading sector in 2021, overtaking **Online Marketplace** dominance from 2015.
 - **Bangalore** remained the top city by number of deals throughout the period.
 
-## 🚀 How to Run
-- Clone this repository.
-- Open `Startup_Funding_Analysis.ipynb` in any Jupyter Notebook environment (local or Kaggle).
-- Execute the notebook cells in order.
-
 ---
-Made with ❤️ for data science exploration and learning.
+by Berk Çıkıkcı
 
